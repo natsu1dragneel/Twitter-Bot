@@ -1,6 +1,6 @@
 import tweepy as tp
-import time
-import os
+import time, os
+
 
 #login into twitter api                               #provide it yourself
 consumer_key=''                                                      
